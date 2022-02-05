@@ -1,0 +1,5 @@
+.head th {
+  padding: 40px 0;
+  padding-block: 40px;
+  user-select: none;
+}
